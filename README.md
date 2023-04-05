@@ -8,11 +8,11 @@ Flutter Credit Card package lets you add  beautiful credit card to your flutter 
 
 ```yaml
 dependencies:
-  fluttercreditcard: ^0.0.1
+  flutter_credit_card_container: <latest-version>
 ```
 2. Import the package and use it in your Flutter App.
 ```dart
-import 'package:fluttercreditcard/fluttercreditcard.dart';
+import 'package:flutter_credit_card_container/flutter_credit_card_container.dart';
 ```
 
 ## Example
@@ -56,10 +56,11 @@ class FlutterCreditCard extends StatelessWidget {
 ```
 
 </td>
-<td>
 
-
-<img  src="https://user-images.githubusercontent.com/88571731/229866264-dcba7934-b4e9-4dd7-abef-c8d33a3d8506.png"  alt="">
-</td>
 </tr>
+<tr><td>
+
+
+<img src="https://user-images.githubusercontent.com/88571731/229866264-dcba7934-b4e9-4dd7-abef-c8d33a3d8506.png"  alt="">
+</td></tr>
 </table>
