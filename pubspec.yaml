@@ -1,7 +1,7 @@
 name: flutter_credit_card_container
 description: Simple Flutter Credit Card Container
 version: 0.0.1
-homepage:
+homepage: https://github.com/SavanGangani/flutter_credit_card_container
 
 environment:
   sdk: '>=2.19.3 <3.0.0'

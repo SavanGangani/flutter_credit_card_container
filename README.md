@@ -15,7 +15,6 @@ dependencies:
 import 'package:fluttercreditcard/fluttercreditcard.dart';
 ```
 
-<<<<<<< HEAD
 ## Example
 
 There are a number of properties that you can modify:
@@ -26,18 +25,6 @@ There are a number of properties that you can modify:
 - backgroundColor
 - fontColor
 - cvvNumber
-  =======
-## Example
-
-There are a number of properties that you can modify:
-- height
-- width
-- cradHolderName
-- cardNumber
-- backgroundColor
-- fontColor
-- cvvNumber
->>>>>>> d61cd3c30a6c503d40c4df3ac5f3b72657c8d0ec
 
 <hr>
 
@@ -70,7 +57,7 @@ class FlutterCreditCard extends StatelessWidget {
 
 </td>
 <td>
-<!--   ![Screenshot 2023-04-04 223836]( -->
+
 
 <img  src="https://user-images.githubusercontent.com/88571731/229866264-dcba7934-b4e9-4dd7-abef-c8d33a3d8506.png"  alt="">
 </td>
